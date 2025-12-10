@@ -1,6 +1,6 @@
 # Cytoid_AI_charting
 
-Game: https://cytoid.wiki/zh/
+
 For educational purposes only — this is an undergraduate STATS 402 final project at DKU.
 Data sources are documented in the code.
 
@@ -12,6 +12,8 @@ I tried LSTMs, Transformers, and CNNs, and in the end CNNs worked best — proba
 My only real “contribution” is probably a preprocessing pipeline for the Cytoid input format (lol).
 
 For more information about the game itself, see the official Cytoid wiki: https://cytoid.wiki/zh/
+
+
 
 
 游戏官方: https://cytoid.wiki/zh/
